@@ -1,0 +1,1 @@
+This is a text file. It was created for the purpose of git practise.
